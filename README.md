@@ -6,7 +6,7 @@ ENG: Designing a network with dedicated Wi-Fi zones for employees and guests
 Разработать безопасную и производительную беспроводную сеть с логическим разделением трафика сотрудников и гостей.
 
 ## Реализация
-- Среда: Cisco Packet Tracer
+- Среда: Cisco Packet Tracer version 8.1.1
 - Созданы VLAN 10 (сотрудники) и VLAN 20 (гости)
 - Настроены SSID с WPA2/WPA3-Enterprise для сотрудников и Captive Portal для гостей
 - Обеспечена меж-VLAN маршрутизация и базовые ACL
