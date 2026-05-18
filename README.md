@@ -3,6 +3,7 @@ RU: Проектирование сети с выделенными зонами
 ENG: Designing a network with dedicated Wi-Fi zones for employees and guests
 
 # RUSSIAN 
+
 ## Цель
 Разработать безопасную и производительную беспроводную сеть с логическим разделением трафика сотрудников и гостей.
 
@@ -16,6 +17,7 @@ ENG: Designing a network with dedicated Wi-Fi zones for employees and guests
 ## Результат
 Работоспособная виртуальная модель корпоративной Wi-Fi сети, которая может использоваться как типовой шаблон для малых/средних предприятий.
 
+# ENGLISH 
 
 ## Objective
 To develop a secure and performant wireless network with logical separation of employee and guest traffic.
